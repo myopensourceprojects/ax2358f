@@ -225,5 +225,5 @@ extern "C" {
 //add your function definitions for the project OrionHT550 here
 
 //Do not add code below this line
-#endif /* OrionHT550_H_ */
+#endif
 
